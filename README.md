@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kurmi3886 
-- 👀 I’m interested in data analysis, languages such as R, Python, SQL, Hadoop
-- 🌱 I’m currently learning Data Analysis
+- 👀 I’m interested in data analysis, languages such as R, Python, SQL,Postgre-Sql, Hadoop
+- 🌱 Currently working as a Data Analyst in a Startup.
 - 💞️ I’m looking to collaborate on Data Analysis and related field
 - 📫 How to reach me dm me @kurmi3886
 
