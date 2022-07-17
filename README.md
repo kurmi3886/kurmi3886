@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kurmi3886 
-- 👀 I’m interested in data analysis, languages such as R, Python, SQL,Postgre-Sql, Hadoop
+- 👋 Hi, I’m Nikhil Kurmi
+- 👀 I’m interested in data analysis, R, Python, SQL,Postgre-Sql, PowerBI, SQL, Tableau, Snowflake
 - 🌱 Currently working as a Data Analyst in a Startup.
 - 💞️ I’m looking to collaborate on Data Analysis and related field
 - 📫 How to reach me dm me @kurmi3886
